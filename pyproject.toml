@@ -1,0 +1,18 @@
+[project]
+name = "solara-test"
+version = "0.1"
+description = "solara routing issue"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = "Nicholas earl"}]
+license = {text = "Apache-2.0"}
+classifiers = [
+    "License :: OSI Approved :: Apache Software License"
+]
+dependencies = [
+
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
